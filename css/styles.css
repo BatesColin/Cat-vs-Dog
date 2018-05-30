@@ -1,0 +1,40 @@
+.jumbotron {
+  background-color: #f1fafa;
+  color: lightblue;
+  font-family: 'Sonsie One', cursive;
+  text-align: center;
+}
+
+.jumbotron:hover {
+  color: #e4bebe;
+  opacity: 0.6;
+}
+
+img#photo {
+  height: 450px;
+  padding: 50px 50px 50px 50px;
+}
+
+img#stickers {
+  height: 100px;
+  padding: 10px 10px 10px 10px;
+}
+
+.section2 {
+  float: right;
+}
+body {
+  background-color: lightblue;
+}
+
+ul#kittensticker{
+  overflow: hidden;
+  width: 400px;
+  list-style-type: none;
+}
+
+ul#puppysticker{
+  overflow: hidden;
+  width: 400px;
+  list-style-type: none;
+}
